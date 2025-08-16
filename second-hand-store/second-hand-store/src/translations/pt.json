@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Início",
+    "shop": "Loja",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "hero": {
+    "sustainable": "Moda Sustentável",
+    "title": "Moda Sustentável",
+    "subtitle": "Dê uma segunda chance às roupas",
+    "description": "Descubra peças únicas e de alta qualidade de segunda mão que combinam estilo com consciência ambiental.",
+    "ecoFriendly": "Eco-Amigável",
+    "sustainable": "Sustentável",
+    "quality": "Qualidade",
+    "shopNow": "Comprar Agora",
+    "learnMore": "Saiba Mais"
+  },
+  "products": {
+    "title": "Produtos em Destaque",
+    "subtitle": "Seleção curada de peças de moda de segunda mão de alta qualidade",
+    "addToCart": "Adicionar ao Carrinho",
+    "size": "Tamanho",
+    "viewAll": "Ver Todos os Produtos"
+  },
+  "about": {
+    "title": "Sobre a Second Hand",
+    "description1": "Nossa missão é tornar a moda sustentável acessível a todos, reduzindo o desperdício têxtil. Acreditamos que cada peça de roupa merece uma segunda chance.",
+    "description2": "Fundada em 2020, ajudamos milhares de clientes a encontrar peças únicas e de alta qualidade, contribuindo para um futuro mais sustentável.",
+    "ourMission": "Nossa Missão"
+  },
+  "stats": {
+    "title": "Nosso Impacto",
+    "subtitle": "Juntos, estamos fazendo a diferença na indústria da moda",
+    "customers": "Clientes Satisfeitos",
+    "items": "Itens Vendidos",
+    "waste": "Desperdício Têxtil Economizado",
+    "brands": "Marcas Parceiras"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Tem dúvidas? Adoraríamos ouvir de você.",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "namePlaceholder": "Seu nome",
+    "emailPlaceholder": "seu@email.com",
+    "messagePlaceholder": "Sua mensagem...",
+    "send": "Enviar Mensagem"
+  },
+  "footer": {
+    "description": "Moda sustentável que dá uma segunda chance às roupas. Roupas pré-amadas de qualidade para o consumidor consciente.",
+    "company": "Empresa",
+    "about": "Sobre",
+    "contact": "Contato",
+    "careers": "Carreiras",
+    "sustainability": "Sustentabilidade",
+    "customerService": "Atendimento ao Cliente",
+    "helpCenter": "Central de Ajuda",
+    "shipping": "Informações de Envio",
+    "returns": "Devoluções",
+    "sizeGuide": "Guia de Tamanhos",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Inscreva-se para receber atualizações sobre novos produtos e ofertas especiais",
+    "subscribe": "Inscrever-se",
+    "copyright": "© 2024 Second Hand. Todos os direitos reservados."
+  },
+  "cart": {
+    "title": "Carrinho de Compras",
+    "empty": "Seu carrinho está vazio",
+    "remove": "Remover",
+    "total": "Total",
+    "checkout": "Finalizar Compra"
+  },
+  "messages": {
+    "addedToCart": "adicionado ao carrinho!",
+    "moreProducts": "Mais produtos em breve!",
+    "learnMore": "Saiba mais sobre nossas práticas sustentáveis!",
+    "thankYou": "Obrigado pela sua mensagem! Entraremos em contato em breve.",
+    "careers": "Página de carreiras em breve!",
+    "sustainabilityPage": "Página de sustentabilidade em breve!",
+    "helpCenter": "Central de ajuda em breve!",
+    "shippingInfo": "Informações de envio em breve!",
+    "returnsPage": "Página de devoluções em breve!",
+    "sizeGuideInfo": "Guia de tamanhos em breve!",
+    "subscribed": "Obrigado por se inscrever!"
+  },
+  "productData": {
+    "vintageDenim": "Jaqueta Jeans Vintage",
+    "woolSweater": "Suéter de Lã Clássico",
+    "silkDress": "Vestido de Seda Vintage",
+    "leatherBoots": "Botas de Couro",
+    "excellent": "Excelente",
+    "good": "Bom",
+    "cotton": "100% Jeans de Algodão",
+    "wool": "Lã Merino",
+    "silk": "100% Seda",
+    "leather": "Couro Genuíno"
+  }
+}

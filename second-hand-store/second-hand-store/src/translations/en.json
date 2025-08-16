@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "sustainable": "Sustainable Fashion",
+    "title": "Sustainable Fashion",
+    "subtitle": "Give clothes a second chance",
+    "description": "Discover unique, high-quality second-hand clothing that combines style with environmental consciousness.",
+    "ecoFriendly": "Eco-Friendly",
+    "sustainable": "Sustainable",
+    "quality": "Quality",
+    "shopNow": "Shop Now",
+    "learnMore": "Learn More"
+  },
+  "products": {
+    "title": "Featured Products",
+    "subtitle": "Curated selection of high-quality second-hand fashion pieces",
+    "addToCart": "Add to Cart",
+    "size": "Size",
+    "viewAll": "View All Products"
+  },
+  "about": {
+    "title": "About Second Hand",
+    "description1": "Our mission is to make sustainable fashion accessible to everyone while reducing textile waste. We believe that every piece of clothing deserves a second chance.",
+    "description2": "Founded in 2020, we've helped thousands of customers find unique, high-quality pieces while contributing to a more sustainable future.",
+    "ourMission": "Our Mission"
+  },
+  "stats": {
+    "title": "Our Impact",
+    "subtitle": "Together, we are making a difference in the fashion industry",
+    "customers": "Happy Customers",
+    "items": "Items Sold",
+    "waste": "Textile Waste Saved",
+    "brands": "Partner Brands"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "messagePlaceholder": "Your message...",
+    "send": "Send Message"
+  },
+  "footer": {
+    "description": "Sustainable fashion that gives clothes a second chance. Quality pre-loved clothing for the conscious consumer.",
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "careers": "Careers",
+    "sustainability": "Sustainability",
+    "customerService": "Customer Service",
+    "helpCenter": "Help Center",
+    "shipping": "Shipping Info",
+    "returns": "Returns",
+    "sizeGuide": "Size Guide",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to receive updates on new arrivals and special offers",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 Second Hand. All rights reserved."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "remove": "Remove",
+    "total": "Total",
+    "checkout": "Checkout"
+  },
+  "messages": {
+    "addedToCart": "added to cart!",
+    "moreProducts": "More products coming soon!",
+    "learnMore": "Learn more about our sustainability practices!",
+    "thankYou": "Thank you for your message! We'll get back to you soon.",
+    "careers": "Careers page coming soon!",
+    "sustainabilityPage": "Sustainability page coming soon!",
+    "helpCenter": "Help Center coming soon!",
+    "shippingInfo": "Shipping Info coming soon!",
+    "returnsPage": "Returns page coming soon!",
+    "sizeGuideInfo": "Size Guide coming soon!",
+    "subscribed": "Thanks for subscribing!"
+  },
+  "productData": {
+    "vintageDenim": "Vintage Denim Jacket",
+    "woolSweater": "Classic Wool Sweater",
+    "silkDress": "Silk Vintage Dress",
+    "leatherBoots": "Leather Boots",
+    "excellent": "Excellent",
+    "good": "Good",
+    "cotton": "100% Cotton Denim",
+    "wool": "Merino Wool",
+    "silk": "100% Silk",
+    "leather": "Genuine Leather"
+  }
+}

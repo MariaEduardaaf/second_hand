@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "about": "Acerca",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "sustainable": "Moda Sostenible",
+    "title": "Moda Sostenible",
+    "subtitle": "Dale una segunda oportunidad a la ropa",
+    "description": "Descubre piezas únicas y de alta calidad de segunda mano que combinan estilo con conciencia ambiental.",
+    "ecoFriendly": "Eco-Amigable",
+    "sustainable": "Sostenible",
+    "quality": "Calidad",
+    "shopNow": "Comprar Ahora",
+    "learnMore": "Saber Más"
+  },
+  "products": {
+    "title": "Productos Destacados",
+    "subtitle": "Selección curada de piezas de moda de segunda mano de alta calidad",
+    "addToCart": "Añadir al Carrito",
+    "size": "Talla",
+    "viewAll": "Ver Todos los Productos"
+  },
+  "about": {
+    "title": "Acerca de Second Hand",
+    "description1": "Nuestra misión es hacer que la moda sostenible sea accesible para todos, reduciendo el desperdicio textil. Creemos que cada prenda merece una segunda oportunidad.",
+    "description2": "Fundada en 2020, hemos ayudado a miles de clientes a encontrar piezas únicas y de alta calidad, contribuyendo a un futuro más sostenible.",
+    "ourMission": "Nuestra Misión"
+  },
+  "stats": {
+    "title": "Nuestro Impacto",
+    "subtitle": "Juntos, estamos marcando la diferencia en la industria de la moda",
+    "customers": "Clientes Satisfechos",
+    "items": "Artículos Vendidos",
+    "waste": "Desperdicio Textil Ahorrado",
+    "brands": "Marcas Asociadas"
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¿Tienes preguntas? Nos encantaría saber de ti.",
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "namePlaceholder": "Tu nombre",
+    "emailPlaceholder": "tu@email.com",
+    "messagePlaceholder": "Tu mensaje...",
+    "send": "Enviar Mensaje"
+  },
+  "footer": {
+    "description": "Moda sostenible que da una segunda oportunidad a la ropa. Ropa pre-amada de calidad para el consumidor consciente.",
+    "company": "Empresa",
+    "about": "Acerca",
+    "contact": "Contacto",
+    "careers": "Carreras",
+    "sustainability": "Sostenibilidad",
+    "customerService": "Servicio al Cliente",
+    "helpCenter": "Centro de Ayuda",
+    "shipping": "Información de Envío",
+    "returns": "Devoluciones",
+    "sizeGuide": "Guía de Tallas",
+    "newsletter": "Boletín",
+    "newsletterDesc": "Suscríbete para recibir actualizaciones sobre nuevos productos y ofertas especiales",
+    "subscribe": "Suscribirse",
+    "copyright": "© 2024 Second Hand. Todos los derechos reservados."
+  },
+  "cart": {
+    "title": "Carrito de Compras",
+    "empty": "Tu carrito está vacío",
+    "remove": "Eliminar",
+    "total": "Total",
+    "checkout": "Finalizar Compra"
+  },
+  "messages": {
+    "addedToCart": "añadido al carrito!",
+    "moreProducts": "¡Más productos próximamente!",
+    "learnMore": "¡Aprende más sobre nuestras prácticas sostenibles!",
+    "thankYou": "¡Gracias por tu mensaje! Te contactaremos pronto.",
+    "careers": "¡Página de carreras próximamente!",
+    "sustainabilityPage": "¡Página de sostenibilidad próximamente!",
+    "helpCenter": "¡Centro de ayuda próximamente!",
+    "shippingInfo": "¡Información de envío próximamente!",
+    "returnsPage": "¡Página de devoluciones próximamente!",
+    "sizeGuideInfo": "¡Guía de tallas próximamente!",
+    "subscribed": "¡Gracias por suscribirte!"
+  },
+  "productData": {
+    "vintageDenim": "Chaqueta de Mezclilla Vintage",
+    "woolSweater": "Suéter de Lana Clásico",
+    "silkDress": "Vestido de Seda Vintage",
+    "leatherBoots": "Botas de Cuero",
+    "excellent": "Excelente",
+    "good": "Bueno",
+    "cotton": "100% Mezclilla de Algodón",
+    "wool": "Lana Merino",
+    "silk": "100% Seda",
+    "leather": "Cuero Genuino"
+  }
+}
